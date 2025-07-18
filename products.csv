@@ -1,0 +1,51 @@
+﻿ProductID,ProductName,Category,Price
+1,Increase,Books,101.78
+2,Soldier,Toys,217.51
+3,Nothing,Books,425.44
+4,Half,Home & Kitchen,420.81
+5,Table,Toys,100.72
+6,Gas,Home & Kitchen,79.7
+7,Avoid,Books,419
+8,Center,Home & Kitchen,275.3
+9,Different,Home & Kitchen,317.12
+10,Live,Home & Kitchen,406.51
+11,News,Clothing,113.76
+12,Why,Clothing,76.88
+13,Beat,Toys,430.93
+14,Mention,Home & Kitchen,64.77
+15,Nothing,Home & Kitchen,53.21
+16,Answer,Home & Kitchen,145.77
+17,Perhaps,Clothing,165.26
+18,You,Books,128.16
+19,Daughter,Home & Kitchen,373.4
+20,Common,Electronics,486.94
+21,Firm,Toys,107.8
+22,Detail,Clothing,393.11
+23,Energy,Books,31.68
+24,Still,Electronics,68.26
+25,Give,Home & Kitchen,262.41
+26,He,Clothing,499.81
+27,Girl,Home & Kitchen,475.19
+28,Total,Toys,64.85
+29,Reason,Clothing,127.45
+30,Fine,Electronics,473.44
+31,Tell,Books,83.85
+32,Former,Books,373.97
+33,Resource,Toys,10.54
+34,Law,Books,319.54
+35,Ok,Books,252.35
+36,Agreement,Toys,240.8
+37,Suffer,Electronics,416.3
+38,Smile,Clothing,49.56
+39,Reflect,Clothing,194.89
+40,Agent,Toys,228.56
+41,Almost,Home & Kitchen,70.72
+42,Deep,Toys,51.98
+43,Seem,Toys,98.01
+44,Approach,Toys,128.11
+45,Scientist,Toys,483.37
+46,Consider,Books,243.05
+47,Recent,Books,260.04
+48,Respond,Electronics,356.43
+49,Fish,Toys,345.29
+50,Newspaper,Clothing,256.36
